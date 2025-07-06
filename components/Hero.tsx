@@ -18,7 +18,7 @@ export default function Hero() {
             <h1 className="text-5xl md:text-6xl font-bold mb-4 text-black drop-shadow-lg m-10 text-center">
               Change is Possible. Start Your Journey Today.
             </h1>
-            <h2 className="text-2xl md:text-3xl text-white drop-shadow-lg m-10 text-center">
+            <h2 className="text-xl md:text-2xl text-white drop-shadow-lg m-10 text-center">
               Offering thoughtful and expert psychological care for adults seeking change, insight, and a greater sense of well-being.
             </h2>
           </div>
